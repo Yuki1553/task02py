@@ -1,3 +1,3 @@
 print ("Введите число журавликов : ")
-s = int(input())
-print(int(s / 6), int(s * 2 / 3), int(s / 6))
+s=int(input())
+print(s//4, s//2, s//4)
